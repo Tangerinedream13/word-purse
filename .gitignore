@@ -1,0 +1,17 @@
+# Environment variables — never commit these
+.env
+.env.local
+.env.*.local
+
+# Go build output
+server/bin/
+server/*.exe
+
+# Node / frontend
+client/node_modules/
+client/dist/
+client/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
