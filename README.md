@@ -1,6 +1,6 @@
 # 👜 Word Purse
 
-🌐 **Live at [www.wordpurse.com](https://www.wordpurse.com)**
+🌐 **Live at [www.wordpurse.com](https://wordpurse.com)**
 
 **A stylish little home for invented words.**
 
