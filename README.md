@@ -1,5 +1,7 @@
 # 👜 Word Purse
 
+🌐 **Live at [www.wordpurse.com](https://www.wordpurse.com)**
+
 **A stylish little home for invented words.**
 
 Part dictionary, part idea archive, part community bookshelf for language that doesn't exist yet — except in our heads.
