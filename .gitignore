@@ -12,6 +12,9 @@ client/node_modules/
 client/dist/
 client/.vite/
 
+# Keep og-image.png (generated once, served as static asset)
+!client/public/og-image.png
+
 # OS
 .DS_Store
 Thumbs.db
